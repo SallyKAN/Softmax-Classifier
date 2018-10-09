@@ -11,11 +11,16 @@ You can use `pip install` to install the packages you need.
 
 ## Description
 ### Loss Function
+![img](img/formula1.png)
+![img](img/formula2.png)
 ### Gradient-based Optimization
+![img](img/formula3.png)
 ### Regularization
+![img](img/formula4.png)
 ### Momentum
+![img](img/formula5.png)
 
-For more detailed description, see 
+For more detailed description, see [my blog](http://sallykang.com/blog/2018/10/09/softmax-classifier-implementation)
 ## Usage 
 To run this program
 ```
